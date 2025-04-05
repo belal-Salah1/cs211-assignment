@@ -202,3 +202,4 @@ console.log("LEXICAL ANALYZER TEST");
 console.log("=====================");
 testWithExpression("(sum + 47) / total");
 testWithExpression("x = y * (z - 5)");
+testWithExpression("a & b ? c : d");
